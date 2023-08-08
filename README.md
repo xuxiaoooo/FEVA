@@ -1,2 +1,4 @@
 # LAM
 Large Audio Model for Psychiatry Research
+
+## There has been a lot of research on fast and efficient prediction of psychological or mental health states (depression, anxiety, etc.) by means of speech cues, but even though the recognition efficiency and accuracy improves significantly with increasing model complexity, it also poses the problem of higher temporal complexity and time-consumption. With the emergence of some baseline powerful models such as Transformer, studies based on attentional mechanisms have yielded good results, and we will start from these entry points with the simplest MLP structure and propose a new model that keeps the model efficient but less complex. We will complete this research with innovative modules such as Melspectrogram Filter Bank, Full-MLP, and Random Route Activate.
