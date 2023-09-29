@@ -1,6 +1,6 @@
 import torch.nn as nn
 import sys
-sys.path.append('../utils/')
+sys.path.append('./utils/')
 from FilterPreprocess import FilterPreprocess
 from FuzzyViT import FuzzyViT
 from FuzzyDecisionLayer import FuzzyDecisionLayer
